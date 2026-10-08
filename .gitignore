@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+.python/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.log
+.streamlit/secrets.toml
+evaluation-results.json
+
