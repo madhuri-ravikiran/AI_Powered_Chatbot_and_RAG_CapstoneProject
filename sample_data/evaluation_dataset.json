@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How many annual leave days do employees receive?",
+    "expected_answer": "Full-time employees receive 24 days of paid annual leave per calendar year.",
+    "expected_source": "company_policy.txt"
+  },
+  {
+    "question": "What is the remote work policy?",
+    "expected_answer": "Eligible employees may work remotely up to two days per week with manager approval.",
+    "expected_source": "company_policy.txt"
+  },
+  {
+    "question": "How quickly must expenses be submitted?",
+    "expected_answer": "Submit expense claims within 30 calendar days of the expense date.",
+    "expected_source": "company_policy.txt"
+  },
+  {
+    "question": "What are password requirements?",
+    "expected_answer": "Passwords must contain at least 14 characters, including uppercase and lowercase letters, a number, and a symbol.",
+    "expected_source": "company_policy.txt"
+  },
+  {
+    "question": "Can employees work from another country?",
+    "expected_answer": "Working from another country is not permitted without prior written approval from HR and Legal.",
+    "expected_source": "company_policy.txt"
+  },
+  {
+    "question": "What does NovaTech say about training?",
+    "expected_answer": "Each employee has an annual professional development budget of 1,200 USD and five paid learning days.",
+    "expected_source": "company_policy.txt"
+  }
+]

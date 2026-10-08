@@ -1,0 +1,90 @@
+NovaTech Solutions
+Employee Handbook — Fictional Demonstration Dataset
+Effective date: 1 January 2026
+This company and all policies are fictional and provided only for IntelliChat demonstrations.
+
+1. Working hours
+The standard working week is Monday to Friday, 40 hours per week. Normal office hours are
+9:00 a.m. to 6:00 p.m., including a one-hour unpaid lunch break. Teams observe core collaboration
+hours from 10:00 a.m. to 4:00 p.m. Employees may agree flexible start and finish times with their
+manager, provided service coverage and weekly hours are maintained. Overtime requires written
+manager approval before the additional work begins.
+
+2. Annual leave
+Full-time employees receive 24 days of paid annual leave per calendar year, accrued at two days
+per completed month. New starters receive a prorated allowance. Submit annual leave requests
+through the HR portal at least seven calendar days before the intended absence. The manager
+approves requests based on staffing requirements. Up to five unused days may be carried into
+the next year and must be used by 31 March. Public holidays do not reduce annual leave balances.
+
+3. Sick leave
+Employees receive 10 days of paid sick leave per calendar year. Notify the line manager before
+10:00 a.m. on the first day of sickness, or as soon as reasonably possible in an emergency.
+A medical certificate is required after more than two consecutive working days of absence.
+Sick leave does not carry forward to the next year. Health records are handled confidentially
+by HR and are accessible only to authorized personnel.
+
+4. Remote and hybrid work
+Eligible employees may work remotely up to two days per week with manager approval.
+The default hybrid schedule includes at least three days in the assigned office each week.
+Managers may require on-site attendance for workshops, customer meetings, or team events.
+Remote work must be performed within the employee's country of employment. Working from
+another country is not permitted without prior written approval from HR and Legal, because
+tax, immigration, insurance, and data-transfer requirements must be assessed.
+Employees must remain reachable during core collaboration hours and use the company VPN.
+A private workspace and reliable internet connection are required. Remote work arrangements
+are reviewed quarterly. Roles requiring physical equipment may not be eligible.
+
+5. Password security
+Passwords must contain at least 14 characters, including uppercase and lowercase letters,
+a number, and a symbol. Use unique passwords for each work account and store them in the
+approved password manager. Multi-factor authentication is required for email, VPN, payroll,
+and source-code access. Never share passwords or approve unexpected authentication requests.
+Change a password immediately if compromise is suspected. Report suspicious login prompts
+to the security team through the internal incident portal.
+
+6. Data security
+Classify information as public, internal, confidential, or restricted before sharing it.
+Confidential and restricted information must remain in approved encrypted company systems.
+Do not upload client data, employee records, or source code to unapproved external AI tools.
+Lock your workstation whenever unattended. Use company-managed devices for business work.
+Report suspected data exposure to the security team within one hour of discovery.
+Only share files with named recipients who need them for their work; public links are prohibited
+for confidential data. Follow the retention schedule and securely delete expired records.
+
+7. Business travel and travel expenses
+Business travel requires written manager approval before booking. Book economy-class flights
+and standard rooms through the approved travel portal. Personal upgrades are not reimbursable.
+Local public transport and reasonable taxi fares for business journeys are reimbursable with
+receipts. Meal reimbursement is capped at 60 USD per day during approved overnight travel.
+Alcohol, entertainment unrelated to business, and personal purchases are excluded.
+For international travel, obtain the necessary travel approval and check visa requirements.
+
+8. Expense reimbursement
+Submit expense claims within 30 calendar days of the expense date through the finance portal.
+Every claim must include an itemized receipt, a business purpose, and the relevant project code.
+The manager reviews the claim before Finance performs compliance checks.
+Approved expenses are reimbursed within 10 business days after Finance approval.
+Late claims require an exception approved by the Finance manager. Duplicate claims and
+personal expenses submitted as business costs may lead to disciplinary action.
+
+9. Employee training
+Each employee has an annual professional development budget of 1,200 USD and five paid
+learning days. Eligible activities include role-relevant courses, certifications, workshops,
+and technical conferences. Obtain manager approval before enrolling or making a payment.
+Discuss learning objectives during quarterly development conversations. Share a short summary
+of useful learning with the team after completion. Mandatory security and code-of-conduct
+training must be completed within 30 days of joining and refreshed annually.
+
+10. Code of conduct
+Treat colleagues, customers, and partners with respect. Discrimination, harassment, bullying,
+and retaliation are prohibited. Disclose potential conflicts of interest to HR before taking
+decisions that may be affected by a personal relationship or financial interest.
+Protect confidential information even after leaving the company. Report misconduct to HR
+or the confidential ethics channel. Reports are investigated fairly and in confidence.
+Gifts exceeding 50 USD must be declared to the compliance team before acceptance.
+
+11. Company leadership
+The Chief Executive Officer is Priya Raman. Priya Raman joined NovaTech Solutions on
+15 March 2021 as Chief Operating Officer and became CEO on 1 July 2024.
+The employee handbook does not specify company revenue, share price, or future financial forecasts.
